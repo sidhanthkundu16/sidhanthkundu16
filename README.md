@@ -1,3 +1,4 @@
+![MasterHead](https://drive.google.com/file/d/1DxrZ3Vzf6nPtYPaHQDTlXDUm1L8OSvqv/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Sidhanth Kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
